@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-14T16:49:14 IST" name="Default suite" finished-at="2024-11-14T16:49:14 IST" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2024-11-14T16:49:14 IST" name="Default test" finished-at="2024-11-14T16:49:14 IST" duration-ms="62">
+      <class name="com.tutorialsninja.tests.Priorities">
+        <test-method signature="sampleOne()[pri:1, instance:com.tutorialsninja.tests.Priorities@4c371370]" started-at="2024-11-14T16:49:14 IST" name="sampleOne" finished-at="2024-11-14T16:49:14 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleOne -->
+        <test-method signature="sampleTwo()[pri:2, instance:com.tutorialsninja.tests.Priorities@4c371370]" started-at="2024-11-14T16:49:14 IST" name="sampleTwo" finished-at="2024-11-14T16:49:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTwo -->
+        <test-method signature="sampleThree()[pri:3, instance:com.tutorialsninja.tests.Priorities@4c371370]" started-at="2024-11-14T16:49:14 IST" name="sampleThree" finished-at="2024-11-14T16:49:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleThree -->
+        <test-method signature="sampleFour()[pri:4, instance:com.tutorialsninja.tests.Priorities@4c371370]" started-at="2024-11-14T16:49:14 IST" name="sampleFour" finished-at="2024-11-14T16:49:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleFour -->
+      </class> <!-- com.tutorialsninja.tests.Priorities -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
